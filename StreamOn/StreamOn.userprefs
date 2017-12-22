@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FE7BCAC1-B6A9-4BF6-B24F-DB9F49B8B7C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamOn/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="StreamOn/Views/Home/Index.cshtml" Line="19" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StreamOn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
