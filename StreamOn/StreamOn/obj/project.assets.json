@@ -28530,11 +28530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Molly/Documents/GitHub/CSprojectsMolly/StreamOn/StreamOn/StreamOn.csproj",
+      "projectUniqueName": "/Users/Molly/Documents/GitHub/Project-Portfolio/StreamOn/StreamOn/StreamOn.csproj",
       "projectName": "StreamOn",
-      "projectPath": "/Users/Molly/Documents/GitHub/CSprojectsMolly/StreamOn/StreamOn/StreamOn.csproj",
+      "projectPath": "/Users/Molly/Documents/GitHub/Project-Portfolio/StreamOn/StreamOn/StreamOn.csproj",
       "packagesPath": "/Users/Molly/.nuget/packages/",
-      "outputPath": "/Users/Molly/Documents/GitHub/CSprojectsMolly/StreamOn/StreamOn/obj",
+      "outputPath": "/Users/Molly/Documents/GitHub/Project-Portfolio/StreamOn/StreamOn/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Molly/.config/NuGet/NuGet.Config"
