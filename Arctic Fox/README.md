@@ -12,4 +12,4 @@ This project was created just for fun, but includes some interesting content and
 * Photo Credit: Jonatan Pie (via Unsplash.com)
 * visit the Arctic: https://mmutton.github.io/Arctic%20Fox/index.html 
 
-![Arctic Fox](/images/ArcticFoxScreenshot copy.png)
+![Arctic Fox](/images/ArcticFoxScreenshotcopy.png)
