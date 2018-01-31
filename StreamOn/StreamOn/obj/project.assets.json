@@ -28525,7 +28525,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/Molly/.nuget/packages/": {}
+    "/Users/Molly/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -28536,6 +28537,9 @@
       "packagesPath": "/Users/Molly/.nuget/packages/",
       "outputPath": "/Users/Molly/Documents/GitHub/Project-Portfolio/StreamOn/StreamOn/obj",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/Molly/.config/NuGet/NuGet.Config"
       ],
