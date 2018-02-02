@@ -6,4 +6,4 @@ StreamOn is a site dedicated to modern music listening practices (no radio).  In
 
 Download the sln files here on Github to visit Streamon.
 
-![StreamOn](/StreanOn/greenStreamOn.jpeg)
+![StreamOn](/StreamOn/greenStreamOn.jpeg)
